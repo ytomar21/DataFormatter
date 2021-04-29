@@ -1,0 +1,21 @@
+question_id,question_content,original_type,linked_question,source_data,correct_option,max_score,option_0,option_1,option_2,option_3,option_4,reference
+q3a,"You used a single fixed pulley to lift a watermelon to your tree house.  If you changed it to a single movable pulley and ignore the effects of friction, the distance pulled would",MC,,Pulley_Post_Y2,1
+q3b,Explain your reasoning about the distance pulled.,SA,q3a,Pulley_Post_Y2,
+q3c,the applied force required would,MC,,Pulley_Post_Y2,2
+q3d,Explain your reasoning about the applied force required.,SA,q3c,Pulley_Post_Y2,
+q4,Which of the following will require less applied force to lift a load to a height of 2 meters using a single fixed pulley? ,MC,,Pulley_Post_Y2,1
+q4a,Explain your reasoning about the applied force required.,SA,q4,Pulley_Post_Y2,
+q7a1,"You used a single fixed pulley to lift a watermelon to your tree house.  If you used a single movable pulley instead and ignore the effects of friction, the applied force needed would",MC,,Pulley_Post_Y2,2
+q7a2,Explain your reasoning about the applied force needed.,SA,q7a1,Pulley_Post_Y2,
+q7b1,...the work done would,MC,,Pulley_Post_Y2,3
+q7b2,Explain your reasoning about the work done.,SA,q7b1,Pulley_Post_Y2,
+q9,"Jane is lifting a box straight up to a height of 1 meter. Mary is using the pulley shown below to lift the same box to the same height.  If you ignore friction, what can you tell about the work done by Jane and Mary?",MC,,Pulley_Post_Y2,3
+q9a,Explain your reasoning about the work done in this question.,SA,q9,Pulley_Post_Y2,
+q10,Which of the following will require more work to lift a load to a height of 2 meters if you are using a single fixed pulley? ,MC,,Pulley_Post_Y2,2
+q10a,Explain your reasoning about the work required.,SA,q10,Pulley_Post_Y2,
+q11,Jacob uses a fixed pulley to lift a box 1 meter. He then uses the same pulley to lift an identical box 2 meters. In which condition did Jacob do more work?,MC,,Pulley_Post_Y2,2
+q11a,Explain your reasoning about the work done in this question.,SA,q11,Pulley_Post_Y2,
+q13,"If you ignore friction, which one of the following pulley set-ups will give the most mechanical advantage?",MC,,Pulley_Post_Y2,4
+q13a,Explain your reasoning about mechanical advantage in this question.,SA,q13,Pulley_Post_Y2,
+q14,"If you ignore friction, which one of the following pulley set-ups will give more mechanical advantage?",MC,,Pulley_Post_Y2,3
+q14a,Explain your reasoning about mechanical advantage in this question.,SA,q14,Pulley_Post_Y2,
